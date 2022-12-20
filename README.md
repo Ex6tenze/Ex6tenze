@@ -2,16 +2,17 @@
 
 I'm Jesper, a second-year ICT student at the Hogeschool Zeeland, employed at a local nursing home for the past 5 years, Tech Guide at Alienware, and aspiring software engineer. I'm in the process of establishing a homelab and experimenting with DevSecOps from the comfort of my own room.
 
-I will link my socials and portfolio website once they're all set up. 😉
+I'm still working on my portfolio website!
 
-<!--
+<h3 align="center">Find me on:</h3>
 <p align="center">
- <a href="https://s.tcno.co/AccSwitcherDiscord"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/TcNobo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://steamcommunity.com/profiles/76561198064588130"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-  <a href="https://youtube.com/TroubleChute"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <img src="https://img.shields.io/badge/Ex6tenze%236478-5865F2?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+ <a href="https://www.linkedin.com/in/jesper-bertijn-0A66C2"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Ex6tenze"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://steamcommunity.com/id/OuttaEx6tenze"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="mailto:jbertijn@hotmail.nl"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
--->
+
 
 <h3 align="center">Languages I have worked with:</h3>
 <p align="center">
