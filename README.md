@@ -26,6 +26,7 @@ I'm still working on my portfolio website!
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
+<!--
 <h3 align="center">Tools and frameworks I have worked with:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -36,6 +37,7 @@ I'm still working on my portfolio website!
   <img src="https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
+-->
 
 <h3 align="center">Currently learning:</h3>
 <p align="center">
