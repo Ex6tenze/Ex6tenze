@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Jesper, a second-year ICT student at the Hogeschool Zeeland, employed at a local nursing home for the past 5 years, Tech Guide at Alienware, and aspiring software engineer. I'm in the process of establishing a homelab and experimenting with DevSecOps from the comfort of my own room.
-
-I'm still working on my portfolio website!
+I'm Ex6tenze.
 
 <h3 align="center">Find me on:</h3>
 <p align="center">
